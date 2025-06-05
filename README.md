@@ -23,3 +23,7 @@ Bu, C# ile nesne yönelimli programlama (OOP) prensiplerini kullanarak hazırlan
 - **Polymorphism (Çok Biçimlilik):** `OzelYetenek` metodu override edilerek farklı düşmanlara özel saldırılar tanımlanmıştır.
 - **Encapsulation (Kapsülleme):** `can`, `mana`, `guc` gibi alanlara `get/set` erişim kontrollü olarak sağlanmıştır.
 - **Static Kullanımı:** Tüm saldırıların sayısı `Karakter.SaldiriSayisi` ile takip edilir.
+
+## Proje Sahibi 
+- Baki Melih POLAT
+- Oyun Geliştirme ve Programlama
